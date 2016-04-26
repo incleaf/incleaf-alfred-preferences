@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customSites</key>
+	<dict>
+		<key>138855B1-9356-4F16-87DA-A1D488E5792E</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>dic</string>
+			<key>plusSpaces</key>
+			<false/>
+			<key>text</key>
+			<string>endic</string>
+			<key>url</key>
+			<string>http://m.endic.naver.com/search.nhn?searchOption=all&amp;query={query}</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>67F95D6C-80CA-4A29-A7E1-ECC259A3389A</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>bugs</string>
+			<key>plusSpaces</key>
+			<false/>
+			<key>text</key>
+			<string>bugs</string>
+			<key>url</key>
+			<string>http://search.bugs.co.kr/track?q={query}</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>B116FE7C-A5D2-407A-8A5A-9F603935CEB8</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>n</string>
+			<key>plusSpaces</key>
+			<false/>
+			<key>text</key>
+			<string>Naver</string>
+			<key>url</key>
+			<string>http://search.naver.com/search.naver?ie=UTF-8&amp;query={query}</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
